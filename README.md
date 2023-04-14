@@ -12,7 +12,9 @@ https://fedoraproject.org/workstation/download (do not forget to scroll a bit do
 * Select "Official Edditions" and proceed with "Next"
 
 ![Screenshot](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/main/03-select_write_options.png?raw=true)
-* Select the "Version, Hardware Architecture & USB Drive" and proceed with clicking on the "Download & Write" button.
+* Select the "Version, Hardware Architecture & USB Drive"
+  
+  and proceed with clicking on the "Download & Write" button.
 
 ![Screenshot](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/main/04-download_fedora.png?raw=true)
 * Downloading
@@ -22,6 +24,6 @@ https://fedoraproject.org/workstation/download (do not forget to scroll a bit do
 
 ![Screenshot](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/main/06-checking_fedora.png?raw=true)
 * Checking
-* 
+
 ![Screenshot](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/main/07-writing_successfully.png?raw=true)
 * "Successfully Written" message, click on "Finish"
