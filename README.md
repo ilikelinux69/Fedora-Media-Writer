@@ -6,13 +6,13 @@ Check out the ![Video](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/
 https://fedoraproject.org/workstation/download (do not forget to scroll a bit down)
 
 ![Screenshot](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/main/01-main_screen-select_source.png?raw=true)
-* Choose "Download automatically" proceed with the "Next" button.
+* Choose "Download automatically" and proceed with the "Next" button.
 
 ![Screenshot](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/main/02-select_fedora_version.png?raw=true)
 * Select "Official Edditions" and proceed with "Next"
 
 ![Screenshot](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/main/03-select_write_options.png?raw=true)
-* Select the "Version, Hardware Architecture & USB Drive" and proceed with clicking on "Download & Write" button.
+* Select the "Version, Hardware Architecture & USB Drive" and proceed with clicking on the "Download & Write" button.
 
 ![Screenshot](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/main/04-download_fedora.png?raw=true)
 * Downloading
@@ -24,4 +24,4 @@ https://fedoraproject.org/workstation/download (do not forget to scroll a bit do
 * Checking
 * 
 ![Screenshot](https://github.com/ilikelinux69/Fedora-Media-Writer/blob/main/07-writing_successfully.png?raw=true)
-* Successfully Written Message, click on "Finish"
+* "Successfully Written" message, click on "Finish"
